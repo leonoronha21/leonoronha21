@@ -1,8 +1,5 @@
 # Leo Noronha
 
-
-
-
 ## Sobre Mim
 
 Olá, sou Leonardo Noronha. Sou Analista de desenvolvimento e desenvolvedor de software apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento de software, ETL, análise de requisitos, documentação de projetos, testes de software. Atualmente, estou trabalhando na OAB-RS como Analista de sistemas.
