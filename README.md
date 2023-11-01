@@ -6,9 +6,26 @@ Olá, sou Leonardo Noronha. Sou Analista de desenvolvimento e desenvolvedor de s
 
 ## Tecnologias que Trabalho
 
-- Linguagens de Programação: JAVA, PHP, C, DART.
-- Frameworks e Bibliotecas: SPRING BOOT, MAVEN, HIBERNATE, SMARTY, FLUTTER,.
-- Ferramentas de Desenvolvimento: Visual Studio Code, Github, Eclipse, Pentaho Data Integration, SQL Developer, SMS SQL SERVER.
+
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JAVA](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JAVA](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JAVA](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JAVA](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JAVA](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JAVA](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JAVA](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![JAVA](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JAVA](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JAVA](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JAVA](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=whitee)
+![JAVA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+![leonoronha21 GITHUB STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=leonoronha21&theme=blue-green)
+
+![leonoronha21 GITHUB STATS](https://github-readme-stats.vercel.app/api?username=leonoronha21&theme=blue-green)
+
 
 ## Projetos
 
