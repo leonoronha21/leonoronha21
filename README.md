@@ -1,16 +1,37 @@
-### Hi there 👋
+# [Seu Nome]
 
-<!--
-**leonoronha21/leonoronha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá, sou Leonardo Noronha. Sou Analista de desenvolvimento e desenvolvedor de software apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento de software, ETL, análise de requisitos, documentação de projetos, testes de software. Atualmente, estou trabalhando na OAB-RS como Analista de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que Trabalho
+
+- Linguagens de Programação: JAVA, PHP, C, DART.
+- Frameworks e Bibliotecas: SPRING BOOT, MAVEN, HIBERNATE, SMARTY, FLUTTER,.
+- Ferramentas de Desenvolvimento: Visual Studio Code, Github, Eclipse, Pentaho Data Integration, SQL Developer, SMS SQL SERVER.
+
+## Projetos
+
+Aqui estão alguns dos projetos em que tenho trabalhado ou trabalhei:
+
+- [Joga 10]([URL do Projeto 1](https://github.com/leonoronha21/joga_10)): App mobile que é o meu trabalho de conclusão de curso da faculdade, onde será possível reservar quadras, criar partidas, avaliar membros, entre outras funcionalidades.
+- [Joga10 - Backend]([URL do Projeto 2](https://github.com/leonoronha21/joga10-backend)): É a API do Joga 10, feita com spring para realizar a integração com a base de dados mySQL.
+- [HateProject]([URL do Projeto 3](https://github.com/leonoronha21/HateProject)): Sistema Web em que estive envolvido com o desenvolvimento na faculdade, seria uma espécie de tinder para pets.
+- [Software de controle de estoque]([URL do Projeto 4]((https://github.com/leonoronha21/ControleEstoque))): Meu primeiro sistema com CRUD, feito em PHP.
+  
+## Como Entrar em Contato
+
+Você pode me encontrar online nas seguintes redes sociais:
+
+- GitHub: [leonoronha21]([URL do seu perfil](https://github.com/leonoronha21))
+- LinkedIn: [Leonardo Noronha de Andrade]([URL do seu perfil](https://www.linkedin.com/in/leonardo-noronha-de-andrade-148932148/))
+
+
+Sinta-se à vontade para entrar em contato comigo se quiser discutir projetos, colaborações ou apenas bater um papo!
+
+## Contribuições
+
+Se você encontrar erros neste README ou tiver sugestões de melhoria, fique à vontade para abrir uma issue ou enviar uma pull request.
+
+Obrigado por visitar o meu perfil!
+
