@@ -23,8 +23,8 @@ Aqui estão alguns dos projetos em que tenho trabalhado ou trabalhei:
 
 Você pode me encontrar online nas seguintes redes sociais:
 
-- GitHub: [leonoronha21]([URL do seu perfil](https://github.com/leonoronha21))
-- LinkedIn: [Leonardo Noronha de Andrade]([URL do seu perfil](https://www.linkedin.com/in/leonardo-noronha-de-andrade-148932148/))
+- GitHub: ([leonoronha21](https://github.com/leonoronha21))
+- LinkedIn: ([Leonardo Noronha de Andrade](https://www.linkedin.com/in/leonardo-noronha-de-andrade-148932148/))
 
 
 Sinta-se à vontade para entrar em contato comigo se quiser discutir projetos, colaborações ou apenas bater um papo!
