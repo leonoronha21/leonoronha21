@@ -1,5 +1,10 @@
 # Leo Noronha
 
+
+[![Commits](https://img.shields.io/github/commit-activity/w/leonoronha21/leonoronha21)](URL do seu repositório)
+[![Top Languages](https://img.shields.io/github/languages/top/leonoronha21/leonoronha21)](URL do seu repositório)
+
+
 ## Sobre Mim
 
 Olá, sou Leonardo Noronha. Sou Analista de desenvolvimento e desenvolvedor de software apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento de software, ETL, análise de requisitos, documentação de projetos, testes de software. Atualmente, estou trabalhando na OAB-RS como Analista de sistemas.
