@@ -17,7 +17,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado ou trabalhei:
 - [Joga 10]([Joga10 Flutter](https://github.com/leonoronha21/joga_10)): App mobile que é o meu trabalho de conclusão de curso da faculdade, onde será possível reservar quadras, criar partidas, avaliar membros, entre outras funcionalidades.
 - [Joga10 - Backend]([Joga10 backend_Spring](https://github.com/leonoronha21/joga10-backend)): É a API do Joga 10, feita com spring para realizar a integração com a base de dados mySQL.
 - [HateProject]([HateProject ](https://github.com/leonoronha21/HateProject)): Sistema Web em que estive envolvido com o desenvolvimento na faculdade, seria uma espécie de tinder para pets.
-- [Software de controle de estoque](Controle_estoque ]((https://github.com/leonoronha21/ControleEstoque))): Meu primeiro sistema com CRUD, feito em PHP.
+- [Software de controle de estoque](Controle estoque](https://github.com/leonoronha21/ControleEstoque)): Meu primeiro sistema com CRUD, feito em PHP.
   
 ## Como Entrar em Contato
 
