@@ -1,8 +1,8 @@
 # Leo Noronha
 
 
-[![Commits](https://img.shields.io/github/commit-activity/w/leonoronha21/leonoronha21)](URL do seu repositório)
-[![Top Languages](https://img.shields.io/github/languages/top/leonoronha21/leonoronha21)](URL do seu repositório)
+[![Commits](https://img.shields.io/github/commit-activity/w/leonoronha21/leonoronha21)]((https://github.com/leonoronha21/joga10-backend))
+[![Top Languages](https://img.shields.io/github/languages/top/leonoronha21/leonoronha21)]((https://github.com/leonoronha21/joga10-backend))
 
 
 ## Sobre Mim
