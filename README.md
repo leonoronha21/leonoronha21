@@ -1,6 +1,6 @@
 # Leonardo Noronha de Andrade 👨🏼‍💻
 ## 🚀Sobre Mim🚀
-Olá, sou Leonardo Noronha. Sou Analista de desenvolvimento e desenvolvedor de software, estou finalizando meu bacharelado em Sistemas de Informação em 2023, sou apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento de software, ETL, análise de requisitos, documentação de projetos, testes de software. Atualmente, estou trabalhando na OAB-RS como Analista de sistemas. 
+Olá, sou Leonardo Noronha de Andrade. Sou Analista de desenvolvimento e desenvolvedor de software, estou finalizando meu bacharelado em Sistemas de Informação em 2023, sou apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento de software, ETL, análise de requisitos, documentação de projetos, testes de software. Atualmente, estou trabalhando na OAB-RS como Analista de sistemas. 
 
 ## Tecnologias que Trabalho
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,6 +18,8 @@ Olá, sou Leonardo Noronha. Sou Analista de desenvolvimento e desenvolvedor de s
 ![JAVA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![JAVA](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![JAVA](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ## Projetos
 
 Aqui estão alguns dos projetos em que tenho trabalhado ou trabalhei:
