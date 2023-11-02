@@ -3,8 +3,6 @@
 Olá, sou Leonardo Noronha. Sou Analista de desenvolvimento e desenvolvedor de software, estou finalizando meu bacharelado em Sistemas de Informação em 2023, sou apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento de software, ETL, análise de requisitos, documentação de projetos, testes de software. Atualmente, estou trabalhando na OAB-RS como Analista de sistemas. 
 
 ## Tecnologias que Trabalho
-
-
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
