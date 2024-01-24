@@ -1,6 +1,6 @@
 # Leonardo Noronha de Andrade 👨🏼‍💻
 ## 🚀Sobre Mim🚀
-Olá, sou Leonardo Noronha de Andrade. Sou Analista de desenvolvimento e desenvolvedor de software, estou finalizando meu bacharelado em Sistemas de Informação em 2023, sou apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento de software, ETL, análise de requisitos, documentação de projetos, testes de software. Atualmente, estou trabalhando na OAB-RS como Analista de sistemas. 
+Olá, sou Leonardo Noronha de Andrade. Sou Analista de desenvolvimento e desenvolvedor de software, bacharel em Sistemas de Informação, sou apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento de software, ETL, análise de requisitos, documentação de projetos, testes de software. Atualmente, estou trabalhando na OAB-RS como Analista de sistemas. 
 
 ## Tecnologias que Trabalho
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
