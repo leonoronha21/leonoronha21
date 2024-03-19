@@ -28,6 +28,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado ou trabalhei:
 - ([Joga10 backend_Spring](https://github.com/leonoronha21/joga10-backend)): É a API do Joga 10, feita com spring para realizar a integração com a base de dados mySQL.
 - [HateProject]([HateProject ](https://github.com/leonoronha21/HateProject)): Sistema Web em que estive envolvido com o desenvolvimento na faculdade, seria uma espécie de tinder para pets.
 - ([Controle estoque ](https://github.com/leonoronha21/ControleEstoque)): Meu primeiro sistema com CRUD, feito em PHP.
+- ([MS-EMAIL-JOGA10]((https://github.com/leonoronha21/ms-email-joga10))): Serviço de envio de e-mail do projeto JOGA 10
   
 ## 📱 Contato
 
