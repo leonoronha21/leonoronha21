@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Olá! Sou **Leonardo Noronha de Andrade**, Analista de Sistemas e desenvolvedor de software, bacharel em Sistemas de Informação e apaixonado por tecnologia.
+Olá! Sou **Leonardo Noronha de Andrade**, Analista de Sistemas e desenvolvedor de software, bacharel em Sistemas de Informação e atualmente cursando MBA em Tecnologia para negócios IA, Big Data e Data Science, apaixonado por tecnologia e dados. 
 
 Atualmente trabalho na **ATP (Associação dos transportadores e passageiros de Porto Alegre)** como Analista de Sistemas, atuando na análise, manutenção e evolução de soluções de software. Minha experiência envolve desenvolvimento back-end, integração de sistemas, ETL, bancos de dados relacionais, análise de requisitos, documentação técnica e testes de software.
 
